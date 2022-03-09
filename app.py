@@ -1,4 +1,4 @@
 print("Hello, World!")
 
-print($FirstName)
-print($LastName)
+print(FirstName)
+print(LastName)
